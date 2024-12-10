@@ -1,1 +1,1 @@
-# diagrama-de-clases-de-Gesti-n-Acad-mica
+# Diagrama-de-clases-de-Gestion-Acadamica
