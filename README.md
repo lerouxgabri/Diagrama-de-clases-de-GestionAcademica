@@ -1,1 +1,3 @@
-# Diagrama-de-clases-de-Gestion-Acadamica
+# Gestión Académica
+
+<img src="images/Diagrama-clases.png">
